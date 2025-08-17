@@ -6,25 +6,24 @@
 ---
 
 ## 👀 Seeking Opportunities  
-I'm currently looking for exciting job opportunities in the **IT sector** as a **Software Engineer** or **Full Stack Developer**.  
+I'm currently looking for exciting job opportunities in the **IT sector** as a **Python Developer**.  
 
 ---
 
 ## 🌱 What I'm Learning  
-- **Advanced Data Structures and Algorithms (DSA)**  
-- **Full Stack Web Development**  
+- **Data Structures and Algorithms (DSA)**  
+- **Python Development**  
 - **Database Management Systems (DBMS) with SQL**  
 - **Operating Systems**  
 - **Computer Networks**  
 - Basic knowledge of **Cyber Forensics**  
-- Exploring **Machine Learning** and **Computer Vision**  
+- Exploring **Machine Learning** 
 
 ---
 
 ## 💼 Projects & Contributions  
 - **Vehicle Monitoring System** – Built a computer vision-based system to detect vehicles throwing garbage and fetch owner details using SQL databases.  
-- **Dynamic Web Applications** – Created responsive and dynamic websites using HTML, CSS, JavaScript, and Flask.  
-- **DSA Code Repository** – Uploaded several **Data Structures and Algorithms** implementations.  
+- **DSA Code Repository** – Uploaded several **Data Structures and Algorithms** implementations.
 
 ---
 
